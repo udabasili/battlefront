@@ -5,16 +5,14 @@ Welcome to Battlefront! This is a two-player game built with C# using Windows Fo
 ## Game Preview
 
 ![Battlefront](https://github.com/udabasili/battlefront/assets/33573587/e5a0adaf-5d38-4c96-83e2-ecdccb1bc2fb)
+![Video Overview](https://github.com/udabasili/battlefront/assets/33573587/146bfe01-738b-4822-93e9-cc22eba1d4e5)
 
-## Installation
+## Installation and Running the Game
 
 To run this game, you need to have Visual Studio installed on your system. Follow these steps:
 
-1. Clone this repository to your local machine.
-2. Open the solution file (.sln) in Visual Studio.
-3. Move the images from the `Images` folder to the `bin/Debug` folder.
-4. Make sure to install the Newtonsoft.Json package. You can do this via NuGet Package Manager.
-5. Build and run the project.
+1. Clone this repository to your local machine
+2. Run the exe file 'GameUI.exe'
 
 ## How to Play
 
