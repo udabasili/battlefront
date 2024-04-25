@@ -2,14 +2,20 @@
 
 Welcome to Battlefront! This is a two-player game built with C# using Windows Forms in Visual Studio. Players will engage in exciting battles between characters, each with their own attack and defense stats. The objective of the game is to reduce your opponent's HP (Hit Points) to zero. Let the battle begin!
 
+## Game Preview
+
+![Battlefront](https://github.com/udabasili/battlefront/assets/33573587/e5a0adaf-5d38-4c96-83e2-ecdccb1bc2fb)
+![Video Overview](path/to/your/video.mp4)
+
 ## Installation
 
 To run this game, you need to have Visual Studio installed on your system. Follow these steps:
 
 1. Clone this repository to your local machine.
 2. Open the solution file (.sln) in Visual Studio.
-3. Make sure to install the Newtonsoft.Json package. You can do this via NuGet Package Manager.
-4. Build and run the project.
+3. Move the images from the `Images` folder to the `bin/Debug` folder.
+4. Make sure to install the Newtonsoft.Json package. You can do this via NuGet Package Manager.
+5. Build and run the project.
 
 ## How to Play
 
