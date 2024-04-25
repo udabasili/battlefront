@@ -13,7 +13,7 @@ Welcome to Battlefront! This is a two-player game built with C# using Windows Fo
 To run this game, you need to have Visual Studio installed on your system. Follow these steps:
 
 1. Clone this repository to your local machine
-2. Run the exe file `GameUI.exe` to play the game
+2. Run the exe file `GameUI.exe` within the root directory of the project to start the game.
 
 ## How to Play
 
@@ -32,7 +32,6 @@ To run this game, you need to have Visual Studio installed on your system. Follo
 
 - C#
 - Windows Forms
-- Newtonsoft.Json (Make sure to install this package)
 
 ## Future Improvements
 
