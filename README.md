@@ -5,7 +5,6 @@ Welcome to Battlefront! This is a two-player game built with C# using Windows Fo
 ## Game Preview
 
 ![Battlefront](https://github.com/udabasili/battlefront/assets/33573587/e5a0adaf-5d38-4c96-83e2-ecdccb1bc2fb)
-![Video Overview](https://github.com/udabasili/battlefront/assets/33573587/146bfe01-738b-4822-93e9-cc22eba1d4e5)
 
 ## Installation and Running the Game
 
