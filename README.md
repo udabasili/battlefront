@@ -41,6 +41,4 @@ To run this game, you need to have Visual Studio installed on your system. Follo
 
 Contributions are welcome! If you have any suggestions, ideas, or bug fixes, feel free to open an issue or create a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
